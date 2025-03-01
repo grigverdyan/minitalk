@@ -48,9 +48,12 @@ For detailed information, refer to the [**subject of this project**](en.subject.
 * The client sends messages to the server using UNIX signals.
 * The server acknowledges the receipt of each message.
 
+## Usage
+
 #### The program takes the following arguments:
 
 `./server`
+
 `./client <server_pid> <message>`
 
 * **
